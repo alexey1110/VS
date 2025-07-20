@@ -35,13 +35,7 @@
 **Изучаю в данный момент:**
 - Оптимизация SQL-запросов
 - Паттерны проектирования (GoF)
-- Kafka (основы message brokers)
-- Kubernetes (базовые концепции)
 
-**Сейчас углубляю знания в:**
-- Оптимизации SQL-запросов
-- Паттернах проектирования
-- Микросервисной архитектуре
 
 Ищу возможность присоединиться к команде в качестве стажера или Junior Java Developer.
 
@@ -61,9 +55,15 @@
 - Документирование API (Swagger)
 
 **Применяемые технологии:**
-![Java 17](https://img.shields.io/badge/Java-17-007396?logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.1.5-6DB33F?logo=springboot)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql)
+- Java 17 — основной язык разработки
+- Spring Boot — основной фреймворк
+- Spring Security + JWT — аутентификация и авторизация
+- Spring Data JPA — работа с базой данных
+- Maven — управление зависимостями
+- PostgreSQL — база данных
+- Lombok — сокращение шаблонного кода
+- Swagger/OpenAPI — документация API
+- JUnit 5 + Mockito — тестирование
 
 ---
 
@@ -74,12 +74,15 @@
 
 **Что реализовал:**
 - Модели данных для курсов и уроков
-- Систему оценки курсов
 - Базовые API endpoints
 
 **Использованные технологии:**
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-3.1.5-6DB33F)
-![Lombok](https://img.shields.io/badge/Lombok-1.18.30-pink)
+- Java 17 — основной язык разработки
+- Spring Boot — основной фреймворк
+- Spring Data JPA — работа с базой данных
+- Maven — управление зависимостями
+- PostgreSQL — база данных
+- Lombok — сокращение шаблонного кода
 
 ---
 
@@ -92,6 +95,14 @@
 - Работа с Hibernate
 - Динамический поиск через AJAX
 - Основы Java EE сервлетов
+
+**Использованные технологии:**
+- Java EE — платформа разработки
+- Hibernate — ORM для работы с БД
+- JSP — представление веб-интерфейса
+- AJAX — динамическое обновление данных
+- PostgreSQL — база данных
+- Tomcat — сервер приложений
 
 > Проект создавался для изучения основ. В новых работах использую Spring Boot.
 
